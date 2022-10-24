@@ -1,3 +1,8 @@
 # html_template
 
-- card_sns.html...SNS用カードの書式
+### SNS用カードの書式
+- ogp_sns
+
+
+
+
